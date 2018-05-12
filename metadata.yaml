@@ -1,0 +1,32 @@
+_repo: Lyrics-from-the-Song-Books-of-the-Elizabethan-Age_27129
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Bullen, A. H. (Arthur Henry)
+    aliases:
+    - Butler, A. H.
+    - Bullen, Arthur Henry
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '3753'
+    url: http://www.gutenberg.org/2009/agents/3753
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Henry_Bullen
+description: ''
+gutenberg_issued: '2008-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcsh 'Ballads, English -- Texts'
+- !lcsh 'Songs, English -- England -- Texts'
+title: Lyrics from the Song-Books of the Elizabethan Age
+url: http://www.gutenberg.org/ebooks/27129
